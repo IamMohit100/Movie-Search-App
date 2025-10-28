@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,4 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # Movie-Search-App
 A simple and responsive React-based Movie Search App that allows users to explore movies using the OMDb API (or any movie API). Users can search for movies by title, view details like posters and release years, and manage a Watchlist to keep track of their favorite films.
->>>>>>> 74b4eb97816098088a08de4c8497df4eb8a17274
+
